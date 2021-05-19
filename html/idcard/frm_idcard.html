@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no"/>
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="../../css/api.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/common.css" />
+    <link rel="stylesheet" type="text/css" href="./idcard.css" />
+</head>
+<body>
+
+<form action="">
+    <div class="menu-group">
+        <div class="item no-icon">
+            <label>身份证号</label>
+            <input name="cardNo" type="text" placeholder="请填写" required err-msg="请填写身份证号">
+        </div>
+    </div>
+    <div class="menu-group">
+        <div class="item no-icon">
+            <label>真实姓名</label>
+            <input name="name" type="text" placeholder="请填写" required err-msg="请填写真实姓名">
+        </div>
+    </div>
+    <div class="menu-group">
+        <div class="upimg-Box">
+            <p class="tit">身份证正面</p>
+            <div id="upImgBtn1" class="upImgBtn">
+                <!-- 默认icon -->
+                <img class="icon1" src="widget://image/upimgBtn.png">
+                <!-- 缩略图 -->
+                <img id="imgSrcPath1" class="img" src="../../image/upimgBtn.png">
+            </div>
+        </div>
+    </div>
+    <div class="menu-group">
+        <div class="upimg-Box">
+            <p class="tit">身份证反面</p>
+            <div id="upImgBtn2" class="upImgBtn">
+                <!-- 默认icon -->
+                <img class="icon2" src="widget://image/upimgBtn.png">
+                <!-- 缩略图 -->
+                <img id="imgSrcPath2" class="img" src="../../image/upimgBtn.png">
+            </div>
+        </div>
+    </div>
+    <div class="menu-group">
+        <div class="upimg-Box">
+            <p class="tit">手持身份证</p>
+            <div id="upImgBtn3" class="upImgBtn">
+                <!-- 默认icon -->
+                <img class="icon3" src="widget://image/upimgBtn.png">
+                <!-- 缩略图 -->
+                <img id="imgSrcPath3" class="img" src="../../image/upimgBtn.png">
+            </div>
+        </div>
+    </div>
+</form>
+
+<div class="submit-btn">
+    <button tapmode>提交</button>
+</div>
+
+<script type="text/javascript" src="../../script/api.js"></script>
+<script type="text/javascript" src="../../script/zepto.js"></script>
+<script type="text/javascript" src="../../script/functions.js"></script>
+<script type="text/javascript" src="./idcard.js"></script>
+
+</body>
+</html>
