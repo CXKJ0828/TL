@@ -7,10 +7,10 @@
 // var global = {
 //     apiUrl: 'http://www.hnjks166.com.cn/api/'
 // };
-//艾迪回租
-var global = {
-    apiUrl: 'http://www.xuegaoqun.com/api/'
-};
+// //艾迪回租
+// var global = {
+//     apiUrl: 'http://www.xuegaoqun.com/api/'
+// };
 // //乐花
 // var global = {
 //     apiUrl: 'http://www.zsact.cn/api/'
@@ -30,10 +30,10 @@ var global = {
 //     apiUrl: 'http://www.hzmxj.com.cn/api/'
 // };
 
-// //甜橙
-// var global = {
-//     apiUrl: 'http://www.weixpay.cn/api/'
-// };
+//甜橙
+var global = {
+    apiUrl: 'http://www.zd87067.shop/api/'
+};
 
 // //本地测试
 // var global = {
