@@ -30,20 +30,20 @@
 //     apiUrl: 'http://www.hzmxj.com.cn/api/'
 // };
 
-//甜橙
-var global = {
-    apiUrl: 'http://www.zd87067.shop/api/'
-};
+// //甜橙
+// var global = {
+//     apiUrl: 'http://www.zd87067.shop/api/'
+// };
 
 // //本地测试
 // var global = {
 //     apiUrl: 'http://192.168.0.106:8080/api/'
 // };
 
-// //桃果园
-// var global = {
-//     apiUrl: 'http://www.onlinedata.net.cn/api/'
-// };
+//嘟嘟猫
+var global = {
+    apiUrl: 'http://125.77.159.106/api/'
+};
 
 // //星星回租
 // var global = {
