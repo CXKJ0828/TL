@@ -27,7 +27,7 @@
 
 //布奇
 var global = {
-    apiUrl: 'http://125.77.159.160/api/'
+    apiUrl: 'http://www.hzmxj.com.cn/api/'
 };
 
 // //甜橙
