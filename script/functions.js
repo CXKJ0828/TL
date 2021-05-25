@@ -11,10 +11,10 @@
 // var global = {
 //     apiUrl: 'http://www.xuegaoqun.com/api/'
 // };
-//萌新
-var global = {
-    apiUrl: 'http://125.77.165.105/api/'
-};
+// //萌新
+// var global = {
+//     apiUrl: 'http://125.77.165.105/api/'
+// };
 
 // //艾果回收
 // var global = {
@@ -25,10 +25,10 @@ var global = {
 //     apiUrl: 'http://www.bwmyw.com/api/'
 // };
 
-// //瓜瓜回租
-// var global = {
-//     apiUrl: 'http://www.hzmxj.com.cn/api/'
-// };
+//布奇
+var global = {
+    apiUrl: 'http://125.77.159.160/api/'
+};
 
 // //甜橙
 // var global = {
