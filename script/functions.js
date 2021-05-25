@@ -11,10 +11,10 @@
 // var global = {
 //     apiUrl: 'http://www.xuegaoqun.com/api/'
 // };
-// //乐花
-// var global = {
-//     apiUrl: 'http://www.zsact.cn/api/'
-// };
+//萌新
+var global = {
+    apiUrl: 'http://125.77.165.105/api/'
+};
 
 // //艾果回收
 // var global = {
@@ -40,10 +40,10 @@
 //     apiUrl: 'http://192.168.0.106:8080/api/'
 // };
 
-//嘟嘟猫
-var global = {
-    apiUrl: 'http://125.77.159.106/api/'
-};
+// //嘟嘟猫
+// var global = {
+//     apiUrl: 'http://125.77.159.106/api/'
+// };
 
 // //星星回租
 // var global = {
