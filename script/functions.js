@@ -24,11 +24,10 @@
 // var global = {
 //     apiUrl: 'http://www.bwmyw.com/api/'
 // };
-
-//布奇
-var global = {
-    apiUrl: 'http://www.hzmxj.com.cn/api/'
-};
+// //布奇
+// var global = {
+//     apiUrl: 'http://www.hzmxj.com.cn/api/'
+// };
 
 // //甜橙
 // var global = {
@@ -40,10 +39,10 @@ var global = {
 //     apiUrl: 'http://192.168.0.106:8080/api/'
 // };
 
-// //嘟嘟猫
-// var global = {
-//     apiUrl: 'http://125.77.159.106/api/'
-// };
+//嘟嘟猫
+var global = {
+    apiUrl: 'http://www.douzi.shop/api/'
+};
 
 // //星星回租
 // var global = {
