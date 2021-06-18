@@ -7,14 +7,14 @@
 // var global = {
 //     apiUrl: 'http://www.hnjks166.com.cn/api/'
 // };
-// //艾迪回租
-// var global = {
-//     apiUrl: 'http://www.xuegaoqun.com/api/'
-// };
-//萌新
+//艾迪回租
 var global = {
-    apiUrl: 'http://www.zdkj06.asia/api/'
+    apiUrl: 'http://www.jiasuduba.com/api/'
 };
+// //萌新
+// var global = {
+//     apiUrl: 'http://www.zdkj06.asia/api/'
+// };
 
 // //艾果回收
 // var global = {
