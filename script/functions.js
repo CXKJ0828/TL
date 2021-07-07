@@ -24,15 +24,15 @@
 // var global = {
 //     apiUrl: 'http://www.bwmyw.com/api/'
 // };
-//布奇
-var global = {
-    apiUrl: 'http://www.hzmxj.com.cn/api/'
-};
-
-// //甜橙
+// //布奇
 // var global = {
-//     apiUrl: 'http://www.zd87067.shop/api/'
+//     apiUrl: 'http://www.hzmxj.com.cn/api/'
 // };
+
+//甜橙
+var global = {
+    apiUrl: 'http://www.zd87067.shop/api/'
+};
 
 // //本地测试
 // var global = {
