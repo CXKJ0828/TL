@@ -11,10 +11,10 @@
 // var global = {
 //     apiUrl: 'http://www.jiasuduba.com/api/'
 // };
-//萌新
-var global = {
-    apiUrl: 'http://www.zdkj06.asia/api/'
-};
+// //萌新
+// var global = {
+//     apiUrl: 'http://www.zdkj06.asia/api/'
+// };
 
 // //艾果回收
 // var global = {
@@ -24,10 +24,10 @@ var global = {
 // var global = {
 //     apiUrl: 'http://www.bwmyw.com/api/'
 // };
-// //布奇
-// var global = {
-//     apiUrl: 'http://www.hzmxj.com.cn/api/'
-// };
+//布奇
+var global = {
+    apiUrl: 'http://www.hzmxj.com.cn/api/'
+};
 
 // //甜橙
 // var global = {
