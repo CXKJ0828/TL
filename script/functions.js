@@ -7,10 +7,10 @@
 // var global = {
 //     apiUrl: 'http://www.hnjks166.com.cn/api/'
 // };
-//艾迪回租
-var global = {
-    apiUrl: 'http://www.lingyuehuanbao.com/api/'
-};
+// //艾迪回租
+// var global = {
+//     apiUrl: 'http://www.jiasuduba.com/api/'
+// };
 // //萌新
 // var global = {
 //     apiUrl: 'http://www.zdkj06.asia/api/'
@@ -24,10 +24,10 @@ var global = {
 // var global = {
 //     apiUrl: 'http://www.bwmyw.com/api/'
 // };
-// //布奇
-// var global = {
-//     apiUrl: 'http://www.hzmxj.com.cn/api/'
-// };
+//聪明兔
+var global = {
+    apiUrl: 'http://www.hzmxj.com.cn/api/'
+};
 
 // //甜橙
 // var global = {
