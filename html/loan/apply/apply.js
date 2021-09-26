@@ -59,20 +59,20 @@ function apply(id, data) {
         if (res.status === 'error') {
             return msg(res.msg);
         } else if (res.status === 'success') {
-            // api.openWin({
-            //     name: 'order_show',
-            //     url: '../../order/show/show.html',
-            //     pageParam: {
-            //         id: res.data.orderId
-            //     }
-            // });
             api.openWin({
-                name: 'loan_success',
-                url: '../success/success.html',
+                name: 'order_show',
+                url: '../../order/show/show.html',
                 pageParam: {
-                    order: res.data
+                    id: res.data.orderId
                 }
-            })
+            });
+            // api.openWin({
+            //     name: 'loan_success',
+            //     url: '../success/success.html',
+            //     pageParam: {
+            //         order: res.data
+            //     }
+            // })
         }
     })
 }
