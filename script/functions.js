@@ -11,10 +11,10 @@
 // var global = {
 //     apiUrl: 'http://www.jiasuduba.com/api/'
 // };
-// //萌新
-// var global = {
-//     apiUrl: 'http://www.zdkj06.asia/api/'
-// };
+//启点
+var global = {
+    apiUrl: 'http://www.zdkj06.asia/api/'
+};
 
 // //艾果回收
 // var global = {
@@ -39,10 +39,10 @@
 //     apiUrl: 'http://192.168.0.106:8080/api/'
 // };
 //
-//天天回租
-var global = {
-    apiUrl: 'http://www.douzi.shop/api/'
-};
+// //天天回租
+// var global = {
+//     apiUrl: 'http://www.douzi.shop/api/'
+// };
 
 // //星星回租
 // var global = {
