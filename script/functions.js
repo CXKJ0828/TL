@@ -11,7 +11,7 @@
 // var global = {
 //     apiUrl: 'http://www.jiasuduba.com/api/'
 // };
-//启点
+//胖虎回租
 var global = {
     apiUrl: 'http://www.zdkj06.asia/api/'
 };
