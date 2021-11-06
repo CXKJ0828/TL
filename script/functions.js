@@ -39,7 +39,7 @@
 //     apiUrl: 'http://192.168.0.106:8080/api/'
 // };
 //
-//嘟嘟猫
+//天天回租
 var global = {
     apiUrl: 'http://www.douzi.shop/api/'
 };
