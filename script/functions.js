@@ -24,10 +24,10 @@
 // var global = {
 //     apiUrl: 'http://www.bwmyw.com/api/'
 // };
-// //聪明兔
-// var global = {
-//     apiUrl: 'http://www.hzmxj.com.cn/api/'
-// };
+//优果回租
+var global = {
+    apiUrl: 'http://www.zhuoyao.site/api/'
+};
 
 // //甜橙
 // var global = {
@@ -39,10 +39,10 @@
 //     apiUrl: 'http://192.168.0.106:8080/api/'
 // };
 //
-//天天回租
-var global = {
-    apiUrl: 'http://www.xiongfengshoufen.com.cn/api/'
-};
+// //天天回租
+// var global = {
+//     apiUrl: 'http://www.xiongfengshoufen.com.cn/api/'
+// };
 
 // //星星回租
 // var global = {
